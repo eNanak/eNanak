@@ -8,10 +8,11 @@
     
 💼 Acerca de mí
 ---
-Soy estudiante de Ciencias de la Computación con un enfoque en sistemas computacionales 
-y tecnología. Me interesa profundamente la ciberseguridad y tengo habilidades analíticas 
-para resolver problemas complejos. Me adapto rápidamente a nuevas tecnologías y destaco 
-en la atención al detalle y la comunicación efectiva. Busco seguir desarrollándome en 
+Soy estudiante de Ciencias de la Computación con un enfoque en sistemas 
+computacionales y tecnología. Me interesa profundamente la ciberseguridad 
+y tengo habilidades analíticas para resolver problemas complejos. 
+Me adapto rápidamente a nuevas tecnologías y destaco en la atención al 
+detalle y la comunicación efectiva. Busco seguir desarrollándome en 
 áreas de ciberseguridad y sistemas avanzados de computación.
 
 💻 Habilidades
@@ -27,7 +28,6 @@ Seguridad informática y evaluación de vulnerabilidades.
 Desarrollo de software y programación eficiente.
 Administración y gestión de bases de datos.
 Exploración y aprendizaje de nuevas herramientas y conceptos tecnológicos.
-
 </pre>
 </div>
 <br><br>
