@@ -30,8 +30,7 @@ Administración y gestión de bases de datos.
 Exploración y aprendizaje de nuevas herramientas y conceptos tecnológicos.
 </pre>
 </div>
-<br><br>
-
+<br>
 <div align="center">
 <img src="https://raw.githubusercontent.com/eNanak/eNanak/refs/heads/main/assets/giphy1.webp" height="200" />
     
