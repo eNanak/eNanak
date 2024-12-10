@@ -34,7 +34,9 @@ Exploración y aprendizaje de nuevas herramientas y conceptos tecnológicos.
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/eNanak/eNanak/refs/heads/main/assets/giphy1.webp" height="200" />
+    
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/daniel-proa%C3%B1o-55356633b/)
+
 </div>
 
 
