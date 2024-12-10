@@ -1,5 +1,7 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&size=21&pause=1000&color=F7F7F7&width=435&separator=%3D&lines=print(%22Hello%2C+world%22)%3Dconsole.log(%22Hello%2C+world%22);%3D%3C%3Fphp+echo+%22Hello%2C+world%22;+%3F%3E%3Dputs+%22Hello%2C+world%22%3Decho+%22Hello%2C+world%22" width="70%" />
+<img src="https://github.com/eNanak/eNanak/blob/main/assets/ame.png" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&size=21&pause=1000&color=F7F7F7&width=435&separator=%3D&lines=print(%22Hello%2C+world%22)%3Dconsole.log(%22Hello%2C+world%22);%3D%3C%3Fphp+echo+%22Hello%2C+world%22;+%3F%3E%3Dputs+%22Hello%2C+world%22%3Decho+%22Hello%2C+world%22" width="70%"/>
+    
 <br><br>
 <pre>
     💼 AS
@@ -9,7 +11,8 @@
     🐾 AS
 </pre>
 <br><br>
-<img src="https://github.com/eNanak/eNanak/blob/main/assets/cierre.gif" height="100" />
+<!--    <img src="https://github.com/eNanak/eNanak/blob/main/assets/cierre.gif" height="100" />    -->
+<img src="https://raw.githubusercontent.com/eNanak/eNanak/refs/heads/main/assets/giphy.webp" height="200" />
 <br><br><br>
 </div>
 <!--
@@ -18,9 +21,9 @@
 [![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
 [![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
 </div>
+-->
 
 
-<!--
 **eNanak/eNanak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -33,4 +36,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
