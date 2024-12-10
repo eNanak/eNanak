@@ -14,7 +14,7 @@
 <br><br>
 <img src="https://github.com/eNanak/eNanak/blob/main/assets/cierre.gif" height="40" />
 <br><br><br>
-
+</div>
 <!--
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
 [![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng)
