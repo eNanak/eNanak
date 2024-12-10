@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&size=21&pause=1000&color=F7F7F7&width=435&separator=%3D&lines=print(%22Hello%2C+world%22)%3Dconsole.log(%22Hello%2C+world%22);%3D%3C%3Fphp+echo+%22Hello%2C+world%22;+%3F%3E%3Dputs+%22Hello%2C+world%22%3Decho+%22Hello%2C+world%22" width="70%" align="left" />
+<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&size=21&pause=1000&color=F7F7F7&width=435&separator=%3D&lines=print(%22Hello%2C+world%22)%3Dconsole.log(%22Hello%2C+world%22);%3D%3C%3Fphp+echo+%22Hello%2C+world%22;+%3F%3E%3Dputs+%22Hello%2C+world%22%3Decho+%22Hello%2C+world%22" width="70%" align="right" />
 <br><br>
 <pre>
     💼 AS
@@ -9,7 +9,7 @@
     🐾 AS
 </pre>
 <br><br>
-<img src="https://github.com/eNanak/eNanak/blob/main/assets/cierre.gif" height="40" />
+<img src="https://github.com/eNanak/eNanak/blob/main/assets/cierre.gif" height="100" />
 <br><br><br>
 </div>
 <!--
